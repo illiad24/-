@@ -1,2 +1,1 @@
-
-Адаптивний ігровий сайт для магазину кіберспорту
+Responsive gaming site for eSports
